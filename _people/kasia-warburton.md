@@ -1,6 +1,6 @@
 ---
 title: "Dr Kasia Warburton"
-last_name: "warburton"
+last_name: "Warburton"
 type: "faculty"
 excerpt: "Lecturer in Applied Mathematics"
 image: /assets/images/people/kasia-warburton.jpg
